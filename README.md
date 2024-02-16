@@ -1,6 +1,7 @@
 Github Pages website for this project: https://oia20.github.io/caloriesCalculator/
 
-About
+About:
+
 This was a project I completed from Free Code Camp. In it I learned about many basic Javascript functions such as querySelectors, regex, match, etc. Wonderful practice for transfering my python knowledge over to js.
 
 Technologies used:
